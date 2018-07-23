@@ -1,13 +1,13 @@
 # README
 
-##Follow Step for run this demo
+## Follow Step for run this demo
 
-###Install dependencies
+### Install dependencies
 
  * bundle install
  * yarn install
  
-###Run project
+### Run project
 
  * backend: bin/rails s -p 3000
  * frontend: bin/webpack-dev-server
