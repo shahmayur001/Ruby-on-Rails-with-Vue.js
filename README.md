@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Follow Step for run this demo
 
-Things you may want to cover:
+Install dependencies
 
-* Ruby version
+ -bundle install
+ -yarn install
+ 
+Run project
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ -backend: bin/rails s -p 3000
+ -frontend: bin/webpack-dev-server
